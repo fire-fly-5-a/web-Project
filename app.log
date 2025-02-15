@@ -1,0 +1,4 @@
+2025/02/14 16:36:44 Failed to auto - migrate database: Error 1067 (42000): Invalid default value for 'publish_time'
+2025/02/14 16:36:44 Database initialization failed: failed to auto - migrate database: Error 1067 (42000): Invalid default value for 'publish_time'
+2025/02/14 16:39:38 Failed to auto - migrate database: Error 1067 (42000): Invalid default value for 'publish_time'
+2025/02/14 16:39:38 Database initialization failed: failed to auto - migrate database: Error 1067 (42000): Invalid default value for 'publish_time'
